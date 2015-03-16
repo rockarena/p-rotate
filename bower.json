@@ -1,0 +1,20 @@
+{
+  "name": "p-rotate",
+  "version": "0.0.1",
+  "description": "a simple element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "authors": [
+    "Boris G."
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
